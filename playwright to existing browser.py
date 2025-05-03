@@ -1,3 +1,5 @@
+
+# untuk menjalankan browser yang biasa kita pakai, paste kode berikut ke command prompt. pastika port 9222 kosong dan tidak digunakan proses lain.
 # "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --remote-debugging-port=9222 --user-data-dir="C:\edge-dev-profile"
 # "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --profile-directory="Profile 6"
 
